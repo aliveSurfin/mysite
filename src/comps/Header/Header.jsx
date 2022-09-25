@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.scss";
-import { NavLink, Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 function isNavLinkActive(isActive) {
   isActive = isActive.isActive;
